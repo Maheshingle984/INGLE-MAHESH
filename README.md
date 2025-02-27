@@ -1,6 +1,6 @@
 # INGLE MAHESH
 # Hi there! 👋 
-I'm Ingle Mahesh 
+# I'm Ingle Mahesh 
 🚀 Passionate Developer | Freelancer | Tech Enthusiast  
 
 🔭 *Current Project:* Predicting Heart Disease with Machine Learning Using Retinal Image                                             
